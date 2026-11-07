@@ -2,13 +2,5 @@
   "trial_passcode": "TRIAL-2026",
   "whatsapp_support": "213664820965",
   "github_repo": "aboyousef-pos/license-cloud",
-  "blacklist": {
-    "39F693BE-8E8FC3FF-BF913B5D-73A94E48": {
-      "name": "محمد بوبكر",
-      "status": "debt",
-      "message_ar": "انتهت مهلة السداد المتفق عليها، يرجى التواصل لتسوية الرصيد وإعادة تفعيل النظام فوراً دون فقدان بياناتك.",
-      "message_en": "Payment grace period expired. Please contact support to settle your balance and reactivate immediately.",
-      "date": "2026-11-07T21:50:00.328Z"
-    }
-  }
+  "blacklist": {}
 }
